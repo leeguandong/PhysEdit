@@ -5,9 +5,6 @@
   <a href="https://github.com/leeguandong/PhysEdit">[Code]</a>
 </p>
 
-<p align="center">
-  Built on <a href="https://research.nvidia.com/labs/toronto-ai/chronoedit">ChronoEdit</a> by NVIDIA &amp; University of Toronto
-</p>
 
 ---
 
