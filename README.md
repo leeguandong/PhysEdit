@@ -1,7 +1,7 @@
 <h3 align="center">PhysEdit: Adaptive Spatio-Temporal Reasoning for Physically-Consistent Region-Aware Image Editing</h3>
 
 <p align="center">
-  <a href="#">[Paper (under review at <i>The Visual Computer</i>)]</a> &nbsp;
+  <a href="https://arxiv.org/abs/2605.00707">[arXiv]</a> &nbsp;
   <a href="https://github.com/leeguandong/PhysEdit">[Code]</a>
 </p>
 
@@ -9,9 +9,10 @@
 ---
 
 > **Notice.** This repository contains the official implementation for the manuscript
-> *"Adaptive Spatio-Temporal Reasoning for Physically-Consistent Region-Aware Image Editing"*
-> currently under consideration at **The Visual Computer (Springer Nature)**.
-> If you use this code or build on its ideas, please cite the manuscript (BibTeX below).
+> *"PhysEdit: Physically-Consistent Region-Aware Image Editing via Adaptive Spatio-Temporal Reasoning"*
+> ([arXiv 2605.00707](https://arxiv.org/abs/2605.00707)),
+> currently under review at **Multimedia Systems (Springer Nature)**.
+> If you use this code or build on its ideas, please cite the paper (BibTeX below).
 
 ## Abstract
 
@@ -191,10 +192,10 @@ PhysEdit/
 
 ```bibtex
 @article{li2026physedit,
-  title  = {Adaptive Spatio-Temporal Reasoning for Physically-Consistent
-            Region-Aware Image Editing},
+  title  = {PhysEdit: Physically-Consistent Region-Aware Image Editing
+            via Adaptive Spatio-Temporal Reasoning},
   author = {Li, Guandong and Ye, Mengxia},
-  journal= {The Visual Computer (under review)},
+  journal= {arXiv preprint arXiv:2605.00707},
   year   = {2026},
   note   = {Code: \url{https://github.com/leeguandong/PhysEdit}},
 }
@@ -208,9 +209,8 @@ PhysEdit/
 }
 ```
 
-If you find this code useful, please **cite the PhysEdit manuscript above** —
-this repository is directly tied to the work currently under review at *The Visual
-Computer*, and citations help us track the work's reach.
+If you find this code useful, please **cite the PhysEdit paper above** —
+citations help us track the work's reach.
 
 ## Acknowledgments
 

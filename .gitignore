@@ -15,3 +15,10 @@ outputs/
 *.pt
 *.pth
 .DS_Store
+
+# Sensitive / session data
+.playwright-mcp/
+.claude/
+CLAUDE.md
+arxiv/user_page.txt
+physedit-arxiv.tar.gz
