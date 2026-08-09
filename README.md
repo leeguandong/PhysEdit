@@ -5,13 +5,17 @@
   <a href="https://github.com/leeguandong/PhysEdit">[Code]</a>
 </p>
 
+<p align="center">
+  <b>Accepted at Multimedia Systems (Springer Nature), 2026</b>
+</p>
+
 
 ---
 
-> **Notice.** This repository contains the official implementation for the manuscript
+> **Notice.** This repository contains the official implementation for the paper
 > *"PhysEdit: Physically-Consistent Region-Aware Image Editing via Adaptive Spatio-Temporal Reasoning"*
 > ([arXiv 2605.00707](https://arxiv.org/abs/2605.00707)),
-> currently under review at **Multimedia Systems (Springer Nature)**.
+> **accepted for publication in Multimedia Systems (Springer Nature)**.
 > If you use this code or build on its ideas, please cite the paper (BibTeX below).
 
 ## Abstract
@@ -195,9 +199,10 @@ PhysEdit/
   title  = {PhysEdit: Physically-Consistent Region-Aware Image Editing
             via Adaptive Spatio-Temporal Reasoning},
   author = {Li, Guandong and Ye, Mengxia},
-  journal= {arXiv preprint arXiv:2605.00707},
+  journal= {Multimedia Systems},
   year   = {2026},
-  note   = {Code: \url{https://github.com/leeguandong/PhysEdit}},
+  note   = {Accepted for publication.
+            Code: \url{https://github.com/leeguandong/PhysEdit}},
 }
 
 @inproceedings{wu2025chronoedit,
